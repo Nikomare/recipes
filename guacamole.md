@@ -9,4 +9,5 @@
 
 ## Instructions
 
-Cut Avocado
+1.Cut Avocado
+2.Take out fruit
